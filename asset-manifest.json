@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/IbehejD/Random-Chooser/static/css/main.72c9cf2d.css",
+    "main.js": "/IbehejD/Random-Chooser/static/js/main.5552c0a4.js",
+    "index.html": "/IbehejD/Random-Chooser/index.html",
+    "main.72c9cf2d.css.map": "/IbehejD/Random-Chooser/static/css/main.72c9cf2d.css.map",
+    "main.5552c0a4.js.map": "/IbehejD/Random-Chooser/static/js/main.5552c0a4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.72c9cf2d.css",
+    "static/js/main.5552c0a4.js"
+  ]
+}
